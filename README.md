@@ -1,26 +1,27 @@
-# 🖤🛣️ BlackRoad Coral Reef Monitor
+# BlackRoad Coral Reef Monitor
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+AI-powered coral reef health monitoring using underwater sensors and satellite imagery.
 
-## 🚀 Quick Start
+## Features
 
-```bash
-./blackroad-coral-reef-monitor.sh
-```
+- **Real-time Monitoring** - Continuous water quality and temperature
+- **Coral Health AI** - Detect bleaching and disease
+- **Satellite Integration** - Large-scale reef mapping
+- **Alert System** - Early warning for environmental stress
+- **Research Platform** - Data export for marine biologists
+- **Citizen Science** - Diver contribution network
 
-## 🎨 BlackRoad Design System
+## Metrics Tracked
 
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
+| Metric | Sensor | Frequency |
+|--------|--------|-----------|
+| Temperature | Thermistor | 1min |
+| pH | Ion sensor | 5min |
+| Salinity | Conductivity | 5min |
+| Turbidity | Optical | 15min |
+| Coral Cover | Camera/AI | Daily |
 
-## 📚 Documentation
+## License
 
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+Proprietary software. For licensing: blackroad.systems@gmail.com
